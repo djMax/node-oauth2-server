@@ -13,16 +13,16 @@
   "main": "index.js",
   "dependencies": {
     "basic-auth": "^1.0.0",
-    "bluebird": "^2.9.13",
+    "bluebird": "^3.0.0",
     "camel-case": "^1.1.1",
-    "lodash": "^3.3.1",
-    "standard-http-error": "^1.1.0",
+    "lodash": "^4.0.0",
+    "standard-http-error": "^2.0.0",
     "type-is": "^1.6.0",
     "validator.js": "^1.1.1"
   },
   "devDependencies": {
     "mocha": "^2.2.1",
-    "should": "^5.0.1",
+    "should": "^8.2.2",
     "sinon": "^1.13.0"
   },
   "license": "SEE LICENSE IN LICENSE",
